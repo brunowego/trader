@@ -59,7 +59,7 @@
 
 - [Market](https://www.tradingview.com/watchlists/78212892/)
 
-### Forex
+### Foreign Exchange (FOREX)
 
 - [Market](https://www.tradingview.com/watchlists/78782324/)
 
