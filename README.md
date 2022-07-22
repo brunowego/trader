@@ -25,6 +25,10 @@
   <a href="https://brunowego.com">Site</a>
 </div>
 
+## Analysis
+
+- [Charts](/charts/README.md)
+
 ## Recommended Tools
 
 - [TradingLite](https://www.tradinglite.com/join?ref=brunowego)
