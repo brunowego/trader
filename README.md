@@ -24,3 +24,40 @@
   •
   <a href="https://brunowego.com">Site</a>
 </div>
+
+## TradingView Watch Lists
+
+- [Golden Signals](https://www.tradingview.com/watchlists/81469463/)
+- [Inflation Rate World](https://www.tradingview.com/watchlists/78413643/)
+
+### Crypto
+
+- [Market](https://www.tradingview.com/watchlists/80431197/)
+- [Dominance](https://www.tradingview.com/watchlists/81226110/)
+- [Bitcoin Related](https://www.tradingview.com/watchlists/78380983/)
+
+#### By Exchanges
+
+- Binance
+  - [Futures](https://www.tradingview.com/watchlists/78782353/)
+  - [Spot](https://www.tradingview.com/watchlists/68716856/)
+  - [Uncovered by TradingLite](https://www.tradingview.com/watchlists/82792633/)
+- [FTX](https://www.tradingview.com/watchlists/82450015/)
+- [Kraken](https://www.tradingview.com/watchlists/82356212/)
+
+### ETF
+
+- [Market](https://www.tradingview.com/watchlists/78212892/)
+
+### Forex
+
+- [Market](https://www.tradingview.com/watchlists/78782324/)
+
+### Commodity
+
+- [Market](https://www.tradingview.com/watchlists/78859444/)
+
+### Stock
+
+- [Brazil](https://www.tradingview.com/watchlists/79830126/)
+- [United States](https://www.tradingview.com/watchlists/77514394/)
