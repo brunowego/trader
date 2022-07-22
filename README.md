@@ -25,6 +25,12 @@
   <a href="https://brunowego.com">Site</a>
 </div>
 
+## Recommended Tools
+
+- [TradingLite](https://www.tradinglite.com/join?ref=brunowego)
+- [TradingView](https://www.tradingview.com/gopro/?share_your_love=brunowego)
+- [Binance Long Short Ratio](https://toplsr.netlify.app/)
+
 ## TradingView Watch Lists
 
 - [Golden Signals](https://www.tradingview.com/watchlists/81469463/)
