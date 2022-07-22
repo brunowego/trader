@@ -31,6 +31,10 @@
 - [TradingView](https://www.tradingview.com/gopro/?share_your_love=brunowego)
 - [Binance Long Short Ratio](https://toplsr.netlify.app/)
 
+## Alerts Channels
+
+- [Go/No Go Alerts](https://t.me/+976DuksyEhNiMDk5) - Only alert RSI Oversold/Overbought of BTC/ETH/TOTAL in 15m
+
 ## TradingView Watch Lists
 
 - [Golden Signals](https://www.tradingview.com/watchlists/81469463/)
